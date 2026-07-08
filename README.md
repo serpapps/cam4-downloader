@@ -1,4 +1,4 @@
-# Cam4 Downloader (Browser Extension)
+# Cam4 Video Downloader (Browser Extension)
 
 > Record Cam4 live streams and download recorded videos as MP4 files for offline viewing.
 
@@ -12,7 +12,7 @@ Cam4 Downloader is a browser extension built for people who want a simple way to
 
 ## Links
 
-- 🚀 Get it here: [Cam4 Downloader](https://serp.ly/cam4-video-downloader)
+- 🚀 Get it here: [Cam4 Downloader](https://serp.ly/cam4-video-downloader?via=github)
 - 🆕 Latest release: [GitHub Releases](https://github.com/serpapps/cam4-downloader/releases/latest)
 - ❓ Help center: [SERP Help](https://help.serp.co/en/)
 - 🐛 Report bugs: [GitHub Issues](https://github.com/serpapps/cam4-downloader/issues)
@@ -137,7 +137,7 @@ The extension only works on content you can already access in your browser sessi
 - No credit card required for the trial
 - Unlimited downloads are available with a paid license
 
-Start here: [https://serp.ly/cam4-video-downloader](https://serp.ly/cam4-video-downloader)
+Start here: [https://serp.ly/cam4-video-downloader?via=github](https://serp.ly/cam4-video-downloader?via=github)
 
 ## Installation Instructions
 
